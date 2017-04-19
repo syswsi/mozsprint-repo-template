@@ -1,3 +1,5 @@
+Document in Progress.
+
 # Contributing to [Project]
 
 Add a bit of welcome and cheer at the top
